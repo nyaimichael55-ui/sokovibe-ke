@@ -1,0 +1,6 @@
+{
+  "name": "SokoVibe KE - Kenyan Classifieds & Sales Marketplace",
+  "description": "Authorized & Regulated Kenyan marketplace platform featuring 1,200+ verified listings across Nairobi, Mombasa, Kisumu, M-Pesa STK Push VIP upgrades, and live buyer-seller chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
